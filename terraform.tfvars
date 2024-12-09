@@ -16,4 +16,4 @@ SQL_administrator_password = "4-v3ry-53cr37-p455w0rd"
 
 firewall_rule_name = "FirewallRule12"
 
-GitHub_repo_URL = "https://github.com/ViktorNickolov/03.Azure-Web-App-with-Database-TaskBoard"
+GitHub_repo_URL = "https://github.com/ViktorNickolov/Terraform-Action-Azure"
