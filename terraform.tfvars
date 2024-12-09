@@ -6,7 +6,7 @@ app_service_plan_name = "task-board-viktor"
 
 app_service_name = "AzureWebAppTerraformViktor"
 
-SQL_server_name = "sqlserverviktornik"
+SQL_server_name = "sqlserverviktornikolov"
 
 SQL_database_name = "databaseviktor"
 
