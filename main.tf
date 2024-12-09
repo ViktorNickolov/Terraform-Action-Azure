@@ -91,6 +91,6 @@ resource "azurerm_linux_web_app" "lwa" {
 resource "azurerm_app_service_source_control" "sc" {
   app_id                 = azurerm_linux_web_app.lwa.id
   repo_url               = var.GitHub_repo_URL
-  branch                 = "master"
+  branch                 = "main"
   use_manual_integration = true
 }
